@@ -1,0 +1,10 @@
+.text-white {
+  color: white;
+}
+.switch-group {
+  display: inline-block;
+  padding: 20px 6px;
+}
+.switch-group label {
+  padding: 20px 30px 20px 0;
+}

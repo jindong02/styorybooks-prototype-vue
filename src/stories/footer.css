@@ -1,0 +1,14 @@
+.logo {
+  color: #f65261;
+}
+.logo > b {
+  font-size: 1.3rem;
+}
+.text-center {
+  text-align: center;
+}
+.footer {
+  min-height: 60px;
+  background-color: #232323;
+  line-height: 60px;
+}

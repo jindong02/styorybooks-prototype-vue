@@ -1,0 +1,14 @@
+.video-panel {
+    background-color: #232323;
+    padding: 6px 0 6px 0;
+}
+.no-movie {
+    color: white;
+    min-height: 181px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.no-movie > h1 {    
+    line-height: 181px;
+}
